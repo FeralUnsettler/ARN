@@ -1,6 +1,7 @@
 ### Este script gera uma árvore rubro-negra a partir de 20 números aleatórios entre 0 e 60 e imprime a árvore em ordem. 
 ##### A árvore pode não ser visualizada de forma gráfica, mas os números e suas cores (vermelho ou preto) serão impressos.
 
+Os comentários explicam cada parte do código, desde a definição das classes e métodos até a geração de números aleatórios e a criação da árvore rubro-negra.
 ```python
 import random
 
